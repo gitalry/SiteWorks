@@ -1,42 +1,54 @@
 <!doctype html>
-<html lang="en" class="no-js">
+<html class="no-js" lang="en" dir="ltr">
+
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
-	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
-	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
-	<script src="js/modernizr.js"></script> <!-- Modernizr -->
-  	
-	<title>@gitalry</title>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>James Gitari</title>
+    <link rel="stylesheet" href="css/foundation.css">
+    <link rel="stylesheet" href="css/app.css">
 </head>
+
 <body>
-<header>
-	<nav class="cd-stretchy-nav">
-		<a class="cd-nav-trigger" href="#0">
-			Menu
-			<span aria-hidden="true"></span>
-		</a>
+    <div class="row">
+        <div class="large-12 columns">
 
-		<ul>
-			<li><a href="index.html"><span>Home</span></a></li>
-			<li><a href="portfolio"><span>Portfolio</span></a></li>
-			<li><a href="about"><span>About</span></a></li>
-			<li><a href="blog.html"><span>Blog</span></a></li>
-			<li><a href="contact.html"><span>Contact</span></a></li>
-		</ul>
+            <nav class="cd-stretchy-nav">
+                <a class="cd-nav-trigger" href="#0">
 
-		<span aria-hidden="true" class="stretchy-nav-bg"></span>
-	</nav>
-</header>
+                    <span aria-hidden="true"></span>
+                </a>
+                <div class="top-bar">
+                    <div class="top-bar-left">
+                        <ul class="dropdown menu" data-dropdown-menu>
 
-<main class="cd-main-content">
-	<!-- main content here -->
-</main>
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="portfolio.html">Portfolio</a></li>
+                            <li><a href="about.html">About</a></li>
+                            <li><a href="blog.html">Blog</a></li>
+                            <li><a href="contact.html">Contact</a></li>
+                        </ul>
+                    </div>
 
-	
-<script src="js/jquery-2.1.4.js"></script>
-<script src="js/main.js"></script> <!-- Resource jQuery -->
+                </div>
+            </nav>
+        </div>
+        <div class="content">
+            <div class="content">
+
+
+
+
+            </div>
+
+        </div>
+        <div row align="center">
+            <div class="footer" align="center">
+                &copy; Gitalry
+
+            </div>
+        </div>
 </body>
+
 </html>
