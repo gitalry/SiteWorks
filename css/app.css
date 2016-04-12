@@ -1,22 +1,40 @@
 body {
     background-color: black;
+    background-image: url(../img/simple_dashed_@2X.png);
+}
+.p {
+    padding-top: 50px;
+    padding-bottom: 50px
 }
 .kitu {
     padding-top: 70px;
-    padding-bottom: 70px
+    padding-bottom: 70px;
+    height: 100%;
 }
-.columns vitu {
+.space {
+    height: 5%;
+}
+.story {
+    padding-top: 70px;
+    padding-bottom: 70px;
     border: 5px;
-    width: 39%;
-    height: 30%;
-    border-radius: 25px;
-    background-color: pink;
+    border-color: deeppink;
+    width: 60%;
+    height: 50%;
+    color: white;
+    font-size: 2em;
+}
+.img {
+    border: 5px;
+    border-color: deeppink;
+    height: 50%;
 }
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     width: 200px;
+    min-width: 200px;
     background-color: #f1f1f1;
 }
 li a {
@@ -33,4 +51,12 @@ li a:hover {
     border-bottom-right-radius: 30px;
     border-top-right-radius: 30px;
     color: white;
+}
+.footer {
+    width: auto;
+    border: 5px;
+    border-color: deeppink;
+    background-color: black;
+    height: 15%;
+    color: deeppink;
 }
