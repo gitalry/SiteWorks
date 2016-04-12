@@ -7,22 +7,25 @@ body {
     padding-bottom: 50px
 }
 .kitu {
-    padding-top: 70px;
-    padding-bottom: 70px;
-    height: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 70%;
 }
 .space {
     height: 5%;
 }
 .story {
-    padding-top: 70px;
-    padding-bottom: 70px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     border: 5px;
     border-color: deeppink;
-    width: 60%;
-    height: 50%;
+    width: 66.8%;
+    height: 40%;
     color: white;
     font-size: 2em;
+}
+.mimi {
+    width: 16.6%
 }
 .img {
     border: 5px;
@@ -53,10 +56,12 @@ li a:hover {
     color: white;
 }
 .footer {
+    padding-bottom: 50px;
+    padding-top: 50px;
     width: auto;
     border: 5px;
     border-color: deeppink;
-    background-color: black;
-    height: 15%;
+    background-color: darkolivegreen;
+    height: 25%;
     color: deeppink;
 }
