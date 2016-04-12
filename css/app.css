@@ -1,7 +1,15 @@
 body {
     background-color: black;
 }
-.vitu {
+.kitu {
+    padding-top: 70px;
+    padding-bottom: 70px
+}
+.columns vitu {
+    border: 5px;
+    width: 39%;
+    height: 30%;
+    border-radius: 25px;
     background-color: pink;
 }
 ul {
