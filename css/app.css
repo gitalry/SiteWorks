@@ -27,6 +27,9 @@ body {
 .mimi {
     width: 16.6%
 }
+span {
+    color: deeppink;
+}
 .img {
     border: 5px;
     border-color: deeppink;
